@@ -4,9 +4,7 @@ This repository contains the projects completed during Day 6 of my MERN Stack tr
 
 ## Files Included
 
-### 📄 index.html
-### 📄 style.css
-### 📄 Javascript.js
+### 📄 index.html     ### 📄 style.css      ### 📄 Javascript.js
 
 - A weather app made using HTML, CSS & JavaScript.
 - Demonstrates the use of HTML, CSS, css & JavaScript properties for proper & perfect working.
