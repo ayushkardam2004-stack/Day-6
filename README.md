@@ -4,22 +4,35 @@ This repository contains the projects completed during Day 6 of my MERN Stack tr
 
 ## Files Included
 
-### 📄 Javacsript.js
-- A portfolio webpage functioned using JavaScript.
-- Demonstrates the use of JavaScript properties for proper functioning and perfect working.
--Includes sections such as buttons, about, skills, projects, and contact information.
+### 📄 index.html
+### 📄 style.css
+### 📄 Javascript.js
+
+- A weather app made using HTML, CSS & JavaScript.
+- Demonstrates the use of HTML, CSS, css & JavaScript properties for proper & perfect working.
+-Includes sections such as buttons, color, about, skills, projects, dynamic content, and contact information.
+
+### 🎉 index.html
+- A Weather app using HTML.
+- Showcases the use of tags, hyperlinks, and properties of HTML.
+
+### 🎉style.css
+- A Weather app using CSS.
+- Showcases the use of color, bg-color, and properties of CSS.
 
 ### 🎉 JavaScript.js
-- A College Fest webpage functioned using JavaScript.
+- A Weather app using JavaScript.
 - Showcases the use of buttons, dynamic content, and properties of JavaScript.
 
 ## Technologies Used
+- Html
+- CSS
 - JavaScript
 
 ##Learning Outcomes
 
-- Understanding JavaScript document functioning.
-- Implementing JavaScript properties.
+- Understanding HTML, CSS, and JavaScript document functioning.
+- Implementing HTML, CSS, and JavaScript properties.
 - Designing well-functioning and organized web page layouts.
 - Practicing properties and hyperlinks.
 
