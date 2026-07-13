@@ -1,40 +1,80 @@
-# Day 6 MERN Training
+# 🌦️ Day 6 MERN Stack Training – Weather App
 
-This repository contains the projects completed during Day 6 of my MERN Stack training.
+This repository contains the project completed during **Day 6** of my **MERN Stack Training**. The project is a simple and responsive **Weather App** built using **HTML, CSS, and JavaScript**. It demonstrates the fundamentals of front-end web development, including page structure, styling, and interactive functionality.
 
-## Files Included
+## 📂 Project Files
 
-### 📄 index.html        ### 📄 style.css         ### 📄 Javascript.js
+```
+├── index.html
+├── style.css
+└── JavaScript.js
+```
 
-- A weather app made using HTML, CSS & JavaScript.
-- Demonstrates the use of HTML, CSS, css & JavaScript properties for proper & perfect working.
--Includes sections such as buttons, color, about, skills, projects, dynamic content, and contact information.
+## ✨ Features
 
-### 🎉 index.html
-- A Weather app using HTML.
-- Showcases the use of tags, hyperlinks, and properties of HTML.
+* Responsive Weather App interface
+* City selection option
+* Get Weather button
+* Light/Dark mode toggle
+* Interactive user interface
+* Clean and organized code structure
 
-### 🎉style.css
-- A Weather app using CSS.
-- Showcases the use of color, bg-color, and properties of CSS.
+## 📄 File Description
 
-### 🎉 JavaScript.js
-- A Weather app using JavaScript.
-- Showcases the use of buttons, dynamic content, and properties of JavaScript.
+### `index.html`
 
-## Technologies Used
-- Html
-- CSS
-- JavaScript
+* Creates the structure of the Weather App.
+* Includes the layout, buttons, input elements, and page content.
 
-##Learning Outcomes
+### `style.css`
 
-- Understanding HTML, CSS, and JavaScript document functioning.
-- Implementing HTML, CSS, and JavaScript properties.
-- Designing well-functioning and organized web page layouts.
-- Practicing properties and hyperlinks.
+* Provides styling for the application.
+* Implements responsive design, colors, spacing, typography, and visual effects.
 
-## Author
-Ayush Kardam
+### `JavaScript.js`
 
-⭐ Feel free to explore the repository and provide feedback!
+* Adds interactivity to the application.
+* Handles button actions, dynamic content, and weather-related functionality.
+
+## 🛠️ Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript (ES6)
+
+## 🎯 Learning Outcomes
+
+Through this project, I learned how to:
+
+* Structure web pages using HTML.
+* Design responsive user interfaces with CSS.
+* Implement interactive features using JavaScript.
+* Organize project files efficiently.
+* Build a simple front-end application by combining HTML, CSS, and JavaScript.
+
+## 🚀 Getting Started
+
+1. Clone the repository.
+
+```bash
+git clone https://github.com/your-username/day6-weather-app.git
+```
+
+2. Open the project folder.
+
+3. Open `index.html` in your web browser.
+
+## 📌 Future Improvements
+
+* Integrate a real Weather API.
+* Display temperature, humidity, and wind speed.
+* Add weather icons and animations.
+* Improve error handling for invalid city names.
+
+## 👨‍💻 Author
+
+**Ayush Kardam**
+
+---
+
+⭐ If you found this project helpful, feel free to star the repository and share your feedback!
