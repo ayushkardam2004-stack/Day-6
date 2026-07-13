@@ -12,6 +12,7 @@ This repository contains the project completed during **Day 6** of my **MERN Sta
 
 ## ✨ Features
 
+* Simpe UI
 * Responsive Weather App interface
 * City selection option
 * Get Weather button
