@@ -85,12 +85,14 @@ button:last-of-type {
     margin-top: 20px;
     min-height: 60px;
     padding: 18px;
-    background: #f2f8fb;
+    background: #4ab8f0;
     border-radius: 12px;
-    color: #0b3d59;
+    color: #ffffff;
     font-size: 1rem;
     font-weight: 500;
     line-height: 1.5;
+    border: 5px solid white;
+    outline: 2px solid black;
 }
 
 #weatherResult:empty {
